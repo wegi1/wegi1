@@ -69,11 +69,11 @@ Na forum Reddit często pojawia się pytanie: *Dlaczego Blue Pill potrzebuje 38 
 
 ### 🚀 Featured Low-Level Projects / Wyróżnione Projekty Niskopoziomowe:
 * 🛸 **BLACK-PILL-ASM-BLINK-34-BYTES:** https://github.com/wegi1/BLACK-PILL-ASM-BLINK-34-BYTES
-* ⚡ **BLUE-PILL-ASM-BLINK-38-BYTES:** github.com/wegi1/BLUE-PILL-ASM-BLINK-38-BYTES
+* ⚡ **BLUE-PILL-ASM-BLINK-38-BYTES:** https://github.com/wegi1/BLUE-PILL-ASM-BLINK-38-BYTES
 
 ### 🎮 Retrocomputing & Demoscene Gists / Kod dla Commodore 64:
-* 🕹️ **BMP256VDOTS (256 Vector Dots Ball):** gist.github.com/wegi1/8577c92f4e2e89f2420ebe841a61c46f
-* 💾 **128loader (128 Vector Dots for IRQ Loaders):** gist.github.com/wegi1/6d3054dcf82428ab28de97317ddb0c89
+* 🕹️ **BMP256VDOTS (256 Vector Dots Ball):** https://gist.github.com/wegi1/8577c92f4e2e89f2420ebe841a61c46f
+* 💾 **128loader (128 Vector Dots for IRQ Loaders):** https://gist.github.com/wegi1/6d3054dcf82428ab28de97317ddb0c89
 
 ---
 *Bending silicon to our will since 2015. No HAL, no startup templates, zero bloat.* 😉
