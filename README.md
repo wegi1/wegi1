@@ -63,15 +63,17 @@ Na forum Reddit często pojawia się pytanie: *Dlaczego Blue Pill potrzebuje 38 
 
 ---
 
+---
+
 ## 🛠️ My Technology Stack & Active Repositories / Moje Technologie i Projekty
 
 ### 🚀 Featured Low-Level Projects / Wyróżnione Projekty Niskopoziomowe:
-* 🛸 **[BLACK-PILL-ASM-BLINK-34-BYTES](/../BLACK-PILL-ASM-BLINK-34-BYTES)** – Just 34 bytes long program to blink LED on the Black Pill. Pure ARM Assembly magic using Stack Pointer hijacking.
-* ⚡ **[BLUE-PILL-ASM-BLINK-38-BYTES](/../BLUE-PILL-ASM-BLINK-38-BYTES)** – Ultra-minimalist 38 bytes LED blink for the Blue Pill utilizing instruction injection to mask configuration data.
+* 🛸 **BLACK-PILL-ASM-BLINK-34-BYTES:** github.com/wegi1/BLACK-PILL-ASM-BLINK-34-BYTES
+* ⚡ **BLUE-PILL-ASM-BLINK-38-BYTES:** github.com/wegi1/BLUE-PILL-ASM-BLINK-38-BYTES
 
 ### 🎮 Retrocomputing & Demoscene Gists / Kod dla Commodore 64:
-* 🕹️ **[BMP256VDOTS (256 Vector Dots Ball)](https://github.com)** – Ultra-optimized 6502/6510 Assembly demo driving 256 dynamic points using the dual-purpose illegal opcode `$8F` (SAX).
-* 💾 **[128loader (128 Vector Dots for IRQ Loaders)](https://github.com)** – Scaled-down vector mesh built to liberate over 2/3 of CPU raster time for background fastloaders.
+* 🕹️ **BMP256VDOTS (256 Vector Dots Ball):** gist.github.com/wegi1/8577c92f4e2e89f2420ebe841a61c46f
+* 💾 **128loader (128 Vector Dots for IRQ Loaders):** gist.github.com/wegi1/6d3054dcf82428ab28de97317ddb0c89
 
 ---
 *Bending silicon to our will since 2015. No HAL, no startup templates, zero bloat.* 😉
