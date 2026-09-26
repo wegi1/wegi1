@@ -68,18 +68,20 @@ Na forum Reddit często pojawia się pytanie: *Dlaczego Blue Pill potrzebuje 38 
 
 ---
 
+---
+
 ## 📊 My Live GitHub Automation & Metrics / Moje Statystyki na Żywo
 
 <p align="center">
-  <!-- GŁÓWNA KARTA STATYSTYK - PEWNY SERWER MIRROR -->
-  <img src="https://vercel.app" alt="wegi1's GitHub Stats" height="192px" />
-  
-  <!-- KARTA NAJCZĘŚCIEJ UŻYWANYCH JĘZYKÓW - PEWNY SERWER MIRROR -->
-  <img src="https://vercel.app" alt="wegi1's Top Languages" height="192px" />
+  <!-- AKTUALNE LICZNIKI KODU (STABILNE SHIELDS.IO) -->
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Followers" />
+    <img src="https://shields.io" alt="Total Stars" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- STATYSTYKI AKTYWNOŚCI I COMMIT STREAK -->
+  <!-- STATYSTYKI AKTYWNOŚCI I COMMIT STREAK (STABILNY SERWER DEMOLAB) -->
   <img src="https://demolab.com" alt="GitHub Streak" />
 </p>
 
