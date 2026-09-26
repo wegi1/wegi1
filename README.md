@@ -68,7 +68,7 @@ Na forum Reddit często pojawia się pytanie: *Dlaczego Blue Pill potrzebuje 38 
 ## 🛠️ My Technology Stack & Active Repositories / Moje Technologie i Projekty
 
 ### 🚀 Featured Low-Level Projects / Wyróżnione Projekty Niskopoziomowe:
-* 🛸 **BLACK-PILL-ASM-BLINK-34-BYTES:** github.com/wegi1/BLACK-PILL-ASM-BLINK-34-BYTES
+* 🛸 **BLACK-PILL-ASM-BLINK-34-BYTES:** https://github.com/wegi1/BLACK-PILL-ASM-BLINK-34-BYTES
 * ⚡ **BLUE-PILL-ASM-BLINK-38-BYTES:** github.com/wegi1/BLUE-PILL-ASM-BLINK-38-BYTES
 
 ### 🎮 Retrocomputing & Demoscene Gists / Kod dla Commodore 64:
