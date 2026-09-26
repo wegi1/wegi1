@@ -62,22 +62,17 @@ Na forum Reddit często pojawia się pytanie: *Dlaczego Blue Pill potrzebuje 38 
 - **Rozwiązanie:** Zamiast marnować cenne bajty na instrukcję skoku bezwarunkowego (`B`), która ominęłaby ten blok danych, maska bitowa została zaprojektowana tak, aby jej binarny zapis odpowiadał poprawnym, całkowicie nieszkodliwym instrukcjom asemblera Thumb-2 (`add r4, r8` oraz `add r4, r2`). Procesor "ślepo" wykonuje te puste dodawania, przechodzi przez blok konfiguracyjny bez generowania błędu, zachowuje idealne wyrównanie pamięci do 32 bitów i oszczędza 2 bajty na skoku!
 
 ---
-*Bending silicon to our will since 2015. No HAL, no startup templates, zero bloat.* 😉
-
----
-
----
 
 ## 🛠️ My Technology Stack & Active Repositories / Moje Technologie i Projekty
 
 ### 🚀 Featured Low-Level Projects / Wyróżnione Projekty Niskopoziomowe:
-* 🛸 **[BLACK-PILL-ASM-BLINK-34-BYTES](https://github.com)** – Just 34 bytes long program to blink LED on the Black Pill. Pure ARM Assembly magic using Stack Pointer hijacking.
-* ⚡ **[BLUE-PILL-ASM-BLINK-38-BYTES](https://github.com)** – Ultra-minimalist 38 bytes LED blink for the Blue Pill utilizing instruction injection to mask configuration data.
+* 🛸 **[BLACK-PILL-ASM-BLINK-34-BYTES](/../BLACK-PILL-ASM-BLINK-34-BYTES)** – Just 34 bytes long program to blink LED on the Black Pill. Pure ARM Assembly magic using Stack Pointer hijacking.
+* ⚡ **[BLUE-PILL-ASM-BLINK-38-BYTES](/../BLUE-PILL-ASM-BLINK-38-BYTES)** – Ultra-minimalist 38 bytes LED blink for the Blue Pill utilizing instruction injection to mask configuration data.
 
 ### 🎮 Retrocomputing & Demoscene Gists / Kod dla Commodore 64:
 * 🕹️ **[BMP256VDOTS (256 Vector Dots Ball)](https://github.com)** – Ultra-optimized 6502/6510 Assembly demo driving 256 dynamic points using the dual-purpose illegal opcode `$8F` (SAX).
 * 💾 **[128loader (128 Vector Dots for IRQ Loaders)](https://github.com)** – Scaled-down vector mesh built to liberate over 2/3 of CPU raster time for background fastloaders.
 
 ---
-*Maintained with pure pragmatism. No broken widgets, just clean code.* 😉
+*Bending silicon to our will since 2015. No HAL, no startup templates, zero bloat.* 😉
 
