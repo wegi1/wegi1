@@ -68,20 +68,16 @@ Na forum Reddit często pojawia się pytanie: *Dlaczego Blue Pill potrzebuje 38 
 
 ---
 
+## 🛠️ My Technology Stack & Active Repositories / Moje Technologie i Projekty
+
+### 🚀 Featured Low-Level Projects / Wyróżnione Projekty Niskopoziomowe:
+* 🛸 **[BLACK-PILL-ASM-BLINK-34-BYTES](https://github.com)** – Just 34 bytes long program to blink LED on the Black Pill. Pure ARM Assembly magic using Stack Pointer hijacking.
+* ⚡ **[BLUE-PILL-ASM-BLINK-38-BYTES](https://github.com)** – Ultra-minimalist 38 bytes LED blink for the Blue Pill utilizing instruction injection to mask configuration data.
+
+### 🎮 Retrocomputing & Demoscene Gists / Kod dla Commodore 64:
+* 🕹️ **[BMP256VDOTS (256 Vector Dots Ball)](https://github.com)** – Ultra-optimized 6502/6510 Assembly demo driving 256 dynamic points using the dual-purpose illegal opcode `$8F` (SAX).
+* 💾 **[128loader (128 Vector Dots for IRQ Loaders)](https://github.com)** – Scaled-down vector mesh built to liberate over 2/3 of CPU raster time for background fastloaders.
+
 ---
-
-## 📊 My Live GitHub Automation & Metrics / Moje Statystyki na Żywo
-
-<p align="center">
-  <!-- AKTUALNE LICZNIKI KODU (STABILNE SHIELDS.IO) -->
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Followers" />
-    <img src="https://shields.io" alt="Total Stars" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- STATYSTYKI AKTYWNOŚCI I COMMIT STREAK (STABILNY SERWER DEMOLAB) -->
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</p>
+*Maintained with pure pragmatism. No broken widgets, just clean code.* 😉
 
