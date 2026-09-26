@@ -63,3 +63,21 @@ Na forum Reddit często pojawia się pytanie: *Dlaczego Blue Pill potrzebuje 38 
 
 ---
 *Bending silicon to our will since 2015. No HAL, no startup templates, zero bloat.* 😉
+
+---
+
+## 📊 My Live GitHub Automation & Metrics / Moje Statystyki na Żywo
+
+<p align="center">
+  <!-- GŁÓWNA KARTA STATYSTYK -->
+  <img src="https://vercel.app" alt="wegi1's GitHub Stats" height="192px" />
+  
+  <!-- KARTA NAJCZĘŚCIEJ UŻYWANYCH JĘZYKÓW -->
+  <img src="https://vercel.app" alt="wegi1's Top Languages" height="192px" />
+</p>
+
+<p align="center">
+  <!-- STATYSTYKI AKTYWNOŚCI I COMMIT STREAK -->
+  <img src="https://demolab.com" alt="GitHub Streak" />
+</p>
+
