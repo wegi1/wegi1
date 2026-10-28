@@ -78,3 +78,4 @@ Na forum Reddit często pojawia się pytanie: *Dlaczego Blue Pill potrzebuje 38 
 ---
 *Bending silicon to our will since 2015. No HAL, no startup templates, zero bloat.* 😉
 
+
